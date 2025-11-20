@@ -14,8 +14,8 @@ This project builds a lightweight, offline, real-time fake news classifier using
 - Custom text preprocessing
 - Confidence-based predictions
 - Interactive Streamlit app
-No external APIs. No HuggingFace. No internet dependency.
-Everything runs locally on your machine.
+> No external APIs. No HuggingFace. No internet dependency.
+> Everything runs locally on your machine.
 
 # 🎯 Key Features
 1. 🚀 Machine Learning & NLP
