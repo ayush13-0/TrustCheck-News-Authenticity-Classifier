@@ -1,8 +1,21 @@
-# ⭐ TrustCheck-News-Authenticity-Classifier (ML + NLP)
-A complete, production-ready Machine Learning + NLP system that classifies news articles as REAL or FAKE using TF-IDF vectorization and Logistic Regression.
-This project includes a training pipeline, data preprocessing, model evaluation, model saving, and a full Streamlit web application—all running 100% offline.
+<p align="center">
+  <img src="https://img.shields.io/badge/TrustCheck-News%20Authenticity%20Classifier-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python"> <img src="https://img.shields.io/badge/Machine--Learning-sklearn-orange?logo=scikitlearn"> <img src="https://img.shields.io/badge/NLP-TF--IDF-green"> <img src="https://img.shields.io/badge/Streamlit-WebApp-red?logo=streamlit"> <img src="https://img.shields.io/badge/Status-Production Ready-brightgreen"> </p>
+<h1 align="center">⭐📰 TrustCheck – News Authenticity Classifier (ML + NLP)</h1>
+
+<p align="center">
+  <b>A complete, production-ready ML + NLP system to classify news as REAL or FAKE using TF-IDF & Logistic Regression</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-TF--IDF-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
+</p>
+
 
 # 📘 Project Overview :-
 TrustCheck is a machine learning–based system designed to evaluate the credibility of news articles.
