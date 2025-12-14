@@ -131,9 +131,12 @@ Output:
 - Improve dataset variety
 - Add title-only vs full-text prediction options
 
-👤 Author
-# AYUSH
-Machine Learning • NLP • Artificial Intelligence
-- 🔗 GitHub: https://github.com/ayush13-0
-- 🔗 LinkedIn: https://www.linkedin.com/in/ayush130
+# 👨‍💻 Author
+# Ayush
+Aspiring Data Scientist & Analyst
+- 📫 Email: bhanuseenu914@gmail.com
+- 🌐 GitHub: https://github.com/ayush13-0
+- ℹ️ LinkedIn: www.linkedin.com/in/ayush130
 
+# 🛡️ License
+- This project is licensed under the MIT License.
